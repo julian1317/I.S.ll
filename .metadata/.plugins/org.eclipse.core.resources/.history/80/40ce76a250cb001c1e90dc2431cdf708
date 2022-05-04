@@ -1,0 +1,5 @@
+package academic.service.facade.attendance.implementation;
+
+public class RegisterAttendaceFaceImpl {
+
+}

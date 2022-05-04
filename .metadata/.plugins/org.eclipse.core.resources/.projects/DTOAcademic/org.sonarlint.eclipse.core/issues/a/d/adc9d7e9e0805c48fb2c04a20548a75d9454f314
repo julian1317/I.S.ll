@@ -1,6 +1,6 @@
 
-‰	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÖÏ¸‡þÿÿÿÿH2RMINORZ
-CODE_SMELL
 7
-java:S4032"Remove this package.H3RMINORZ
+java:S4032"Remove this package.H7RMINORZ
+CODE_SMELL
+‰	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÖÏ¸‡þÿÿÿÿH8RMINORZ
 CODE_SMELL
