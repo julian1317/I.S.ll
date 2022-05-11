@@ -3,8 +3,8 @@ package academic.service.usecase.attendance;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import academic.domain.AttendanceDomain;
 import academic.entity.AttendanceEntity;
-import academic.info.AttendanceDomain;
 import academic.persistence.dao.attendance.AttendanceRepository;
 
 @Service

@@ -1,0 +1,10 @@
+package academic.DTO;
+
+import javax.security.auth.Subject;
+
+public class CourseDton {
+	private int id;
+	private Subject subject;
+	private ProfessorDTO profesor;
+
+}

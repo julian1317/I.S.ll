@@ -1,0 +1,7 @@
+package academic.DTO;
+
+public class IdTypeDTO {
+	private int id;
+	private String name;
+
+}

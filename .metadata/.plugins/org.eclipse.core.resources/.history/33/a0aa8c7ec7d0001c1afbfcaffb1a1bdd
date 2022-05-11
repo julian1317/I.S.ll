@@ -1,0 +1,9 @@
+package academic.DTO;
+
+public class ProfessorDomain {
+	
+	private int id;
+	private String name;
+	private IdTypeDomain idType;
+
+}

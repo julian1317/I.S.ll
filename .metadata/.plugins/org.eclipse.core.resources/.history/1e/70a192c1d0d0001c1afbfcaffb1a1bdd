@@ -1,0 +1,10 @@
+package academic.domain;
+
+import java.sql.Date;
+
+public class SessioDomain {
+
+	private int id;
+	private CourseDomain course;
+	private Date date; 
+}

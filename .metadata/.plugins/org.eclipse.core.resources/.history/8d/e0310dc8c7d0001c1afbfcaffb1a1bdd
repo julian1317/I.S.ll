@@ -1,0 +1,10 @@
+package academic.DTO;
+
+import java.sql.Date;
+
+public class SessioDTO {
+
+	private int id;
+	private CourseDomain course;
+	private Date date; 
+}

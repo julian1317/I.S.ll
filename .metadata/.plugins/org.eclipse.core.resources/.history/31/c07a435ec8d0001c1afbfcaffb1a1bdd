@@ -1,0 +1,8 @@
+package academic.entity;
+
+public class StudentDTO {
+	private int id;
+	private IdTypeDTO idType;
+	private String name;
+
+}

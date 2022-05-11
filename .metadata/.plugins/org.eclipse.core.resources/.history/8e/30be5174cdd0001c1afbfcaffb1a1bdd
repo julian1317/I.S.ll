@@ -1,0 +1,12 @@
+package academic.DTO;
+
+
+
+public class AttendanceDTO {
+	private int id;
+	private SessioDTO session;
+	private StudentCourseDTO studentCourse;
+	private boolean attended;
+
+
+}
