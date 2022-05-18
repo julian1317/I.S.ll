@@ -5,6 +5,7 @@ public class ProfessorDomain {
 	private int id;
 	private String name;
 	private IdTypeDomain idType;
+	private String email;
 
 	public ProfessorDomain(int id, String name, IdTypeDomain idType) {
 		super();
@@ -37,4 +38,15 @@ public class ProfessorDomain {
 		this.idType = idType;
 	}
 
+	
+	public String getEmail() {
+		return email;
+	}
+
+	public void setEmail(String email) {
+		this.email = email;
+	}
+
+	
+	
 }

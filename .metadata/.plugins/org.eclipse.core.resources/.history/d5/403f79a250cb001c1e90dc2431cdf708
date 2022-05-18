@@ -1,5 +1,0 @@
-package academic.service.facade;
-
-public interface UseCaseFacade {
-
-}

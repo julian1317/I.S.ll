@@ -1,5 +1,7 @@
 package academic.domain;
 
+
+
 public class IdTypeDomain {
 	private int id;
 	private String name;
@@ -11,6 +13,10 @@ public class IdTypeDomain {
 		setId(id);
 		setName(name);
 	}
+	public IdTypeDomain create() {
+		return new IdTypeDomain(id, name);
+	}
+	
 	
 	public int getId() {
 		return id;
@@ -24,6 +30,8 @@ public class IdTypeDomain {
 	private void setName(String name) {
 		this.name = (name == null)? "": name.trim();
 	}
+
+	
 	
 	
 

@@ -1,0 +1,5 @@
+package academic.service.usecase.validator.rules.student;
+
+public class StudentIsActive {
+
+}

@@ -1,0 +1,28 @@
+
+i
+java:S1135)"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8¢«¤0HÛ
+RINFOZ
+CODE_SMELL
+i
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8¢«¤0HÜ
+RINFOZ
+CODE_SMELL
+i
+java:S1135$"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8¢«¤0Hİ
+RINFOZ
+CODE_SMELL
+i
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8¢«¤0HŞ
+RINFOZ
+CODE_SMELL
+u
+java:S2259"DA "NullPointerException" could be thrown; "domain" is nullable here.(±·¡íøÿÿÿÿ8¹ÊÊ¨0Hß
+RMAJORZBUG
+s
+java:S1854";Remove this useless assignment to local variable "message".(§ùò­şÿÿÿÿ8¹ÊÊ¨0Hâ
+RMAJORZ
+CODE_SMELL
+d
+java:S1481",Remove this unused "message" local variable.(§ùò­şÿÿÿÿ8¹ÊÊ¨0Hã
+RMINORZ
+CODE_SMELL

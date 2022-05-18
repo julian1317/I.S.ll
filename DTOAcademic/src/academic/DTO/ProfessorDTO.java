@@ -5,6 +5,7 @@ public class ProfessorDTO {
 	private int id;
 	private String name;
 	private IdTypeDTO idType;
+	private String email;
 	
 	
 	
@@ -38,6 +39,12 @@ public class ProfessorDTO {
 	public ProfessorDTO setIdType(IdTypeDTO idType) {
 		this.idType = idType;
 		return this;
+	}
+	public String getEmail() {
+		return email;
+	}
+	public void setEmail(String email) {
+		this.email = email;
 	}
 	
 	

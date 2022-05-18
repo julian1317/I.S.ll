@@ -1,0 +1,12 @@
+package academic.crosscutting.exception;
+
+import academic.crosscutting.exception.enums.LocationExceptionEnum;
+import academic.crosscutting.exception.enums.TypeExceptionEnum;
+
+public class AcademicException extends RuntimeException{
+	private  TypeExceptionEnum type;
+	private LocationExceptionEnum location;
+	private String message;
+	
+
+}

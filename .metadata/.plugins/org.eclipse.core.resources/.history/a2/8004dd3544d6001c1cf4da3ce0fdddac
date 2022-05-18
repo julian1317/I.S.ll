@@ -1,0 +1,5 @@
+package academic.crosscutting.exception;
+
+public class AcademicException {
+
+}

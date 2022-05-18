@@ -1,0 +1,6 @@
+package academic.crosscutting.exception.enums;
+
+public enum TypeExceptionEnum {
+	BUSSINES, TECHNICAL, DEFAULT
+
+}

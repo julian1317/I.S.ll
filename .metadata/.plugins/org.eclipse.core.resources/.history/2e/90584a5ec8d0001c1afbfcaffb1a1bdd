@@ -1,8 +1,0 @@
-package academic.entity;
-
-public class StudentEntity{
-	private int id;
-	private IdTypeDTO idType;
-	private String name;
-
-}

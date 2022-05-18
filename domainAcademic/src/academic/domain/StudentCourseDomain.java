@@ -5,6 +5,7 @@ public class StudentCourseDomain {
 	private int id;
 	private StudentDomain student;
 	private CourseDomain course;
+	private int state;
 	public StudentCourseDomain(int id, StudentDomain student, CourseDomain course) {
 		super();
 		setId(id);
@@ -28,6 +29,12 @@ public class StudentCourseDomain {
 	}
 	private void setCourse(CourseDomain course) {
 		this.course = course;
+	}
+	public int getState() {
+		return state;
+	}
+	public void setState(int state) {
+		this.state = state;
 	}
 	
 	

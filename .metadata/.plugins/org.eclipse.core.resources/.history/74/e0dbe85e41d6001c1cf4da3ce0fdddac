@@ -1,0 +1,5 @@
+package academic.service.assembler.implementation;
+
+public class SessionAssambler {
+
+}

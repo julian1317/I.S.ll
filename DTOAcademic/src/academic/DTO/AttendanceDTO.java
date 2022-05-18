@@ -4,7 +4,7 @@ package academic.DTO;
 
 public class AttendanceDTO {
 	private int id;
-	private SessioDTO session;
+	private SessionDTO session;
 	private StudentCourseDTO studentCourse;
 	private boolean attended;
 
@@ -12,7 +12,7 @@ public class AttendanceDTO {
 		
 	public AttendanceDTO() {
 		setId(0);
-		setSession(SessioDTO.create());
+		setSession(SessionDTO.create());
 		setStudentCourse(StudentCourseDTO.create());
 		setAttended(false);
 		
@@ -36,13 +36,13 @@ public class AttendanceDTO {
 
 
 
-	public SessioDTO getSession() {
+	public SessionDTO getSession() {
 		return session;
 	}
 
 
 
-	public AttendanceDTO setSession(SessioDTO session) {
+	public AttendanceDTO setSession(SessionDTO session) {
 		this.session = session;
 		return this;
 	}

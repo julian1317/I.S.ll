@@ -1,5 +1,0 @@
-package academic.servive.usecase.attendance;
-
-public interface RegistterAttendance {
-
-}

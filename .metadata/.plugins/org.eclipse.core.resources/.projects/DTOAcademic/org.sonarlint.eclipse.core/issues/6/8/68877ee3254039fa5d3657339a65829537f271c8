@@ -1,0 +1,10 @@
+
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÖÏ¸‡şÿÿÿÿHˆRMINORZ
+CODE_SMELL
+z
+java:S1128"BRemove this unused import 'javax.swing.text.html.FormSubmitEvent'.(®İâ¹øÿÿÿÿ8è°ª¦0H¸RMINORZ
+CODE_SMELL
+l
+java:S1144
+"4Remove this unused private "SubjectDTO" constructor.(Ò÷¼üÿÿÿÿ8Ş‘£¦0HšRMAJORZ
+CODE_SMELL

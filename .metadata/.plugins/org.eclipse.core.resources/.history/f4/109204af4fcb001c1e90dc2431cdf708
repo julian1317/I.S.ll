@@ -1,5 +1,0 @@
-package academic.api.controller;
-
-public class RegisterAttendanceController {
-
-}

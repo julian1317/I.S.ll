@@ -1,9 +1,0 @@
-package academic.domain;
-
-public class AttendanceDomain {
-	private int id;
-	private SessioDomain session;
-	private StudentCourseDomain studentCourse;
-	private boolean attended;
-
-}

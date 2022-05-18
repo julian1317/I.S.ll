@@ -1,0 +1,5 @@
+package academic.service.usecase.validator.attendance;
+
+public class RegisterAttendaceValidator {
+
+}

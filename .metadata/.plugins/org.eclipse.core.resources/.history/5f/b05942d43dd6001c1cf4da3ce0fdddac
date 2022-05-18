@@ -1,0 +1,6 @@
+package academic.service.assembler;
+
+public interface Assembler<D,T,E> {
+	T 
+
+}

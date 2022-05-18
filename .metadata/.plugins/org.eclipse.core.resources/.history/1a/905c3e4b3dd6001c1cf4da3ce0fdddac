@@ -1,0 +1,39 @@
+package academic.DTO;
+
+public class StudientCourseStateDTO {
+	private int id;
+	private String name;
+	
+	
+	
+	public StudientCourseStateDTO(int id, String name) {
+		super();
+		setId(0);
+		setName(name);
+	}
+	
+	public static StudientCourseStateDTO create() {
+		return new StudientCourseStateDTO();
+	}
+	public int getId() {
+		return id;
+	}
+	public void setId(int id) {
+		this.id = id;
+	}
+	public String getName() {
+		return name;
+	}
+	public void setName(String name) {
+		this.name = name;
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+
+}

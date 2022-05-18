@@ -1,0 +1,7 @@
+
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÖÏ¸‡şÿÿÿÿH„RMINORZ
+CODE_SMELL
+]
+java:S1068"*Remove this unused "isOpen" private field.(ä”±Õ8ÁËÊ¨0Hğ
+RMAJORZ
+CODE_SMELL

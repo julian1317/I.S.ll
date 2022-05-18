@@ -4,6 +4,8 @@ public class StudentDTO {
 	private int id;
 	private IdTypeDTO idType;
 	private String name;
+	private int idNumber;
+	private String email;
 	
 	public StudentDTO () {
 		setId(0);
@@ -35,6 +37,23 @@ public class StudentDTO {
 		this.name = (name == null)? "": name.trim();
 		return this;
 	}
+	public int getIdNumber() {
+		return idNumber;
+	}
+	public void setIdNumber(int idNumber) {
+		this.idNumber = idNumber;
+	}
+	public String getEmail() {
+		return email;
+	}
+	public void setEmail(String email) {
+		this.email = email;
+	}
+	
+	
+	
+	
+	
 	
 	
 

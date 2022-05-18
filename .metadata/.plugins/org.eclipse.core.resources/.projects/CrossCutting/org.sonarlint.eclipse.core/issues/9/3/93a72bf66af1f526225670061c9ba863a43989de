@@ -1,0 +1,17 @@
+
+X
+java:S1165" Make this "message" field final.(ù„è¿ûÿÿÿÿ8’­Œ¥0H´RMINORZ
+CODE_SMELL
+U
+java:S1165	"Make this "type" field final.(³şéßúÿÿÿÿ8’­Œ¥0H²RMINORZ
+CODE_SMELL
+Y
+java:S1165"&Make this "rootException" field final.(ÂÕÊò8“›—¥0HÈRMINORZ
+CODE_SMELL
+T
+java:S1165
+"!Make this "location" field final.(²˜éü8’­Œ¥0H³RMINORZ
+CODE_SMELL
+j
+java:S1161&":Add the "@Override" annotation above this method signature(‡+8“›—¥0HÉRMAJORZ
+CODE_SMELL

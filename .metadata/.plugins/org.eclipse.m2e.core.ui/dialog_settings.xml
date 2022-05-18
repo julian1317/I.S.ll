@@ -18,10 +18,12 @@
 			<item value="domainAcademic"/>
 		</list>
 		<list key="name">
+			<item value="CrossCutting"/>
 			<item value="PersistenceAcademic"/>
 			<item value="DTOAcademic"/>
 		</list>
 		<list key="artifactId">
+			<item value="CrossCutting"/>
 			<item value="ServiceAcademic"/>
 			<item value="PersistenceAcademic"/>
 			<item value="EntityAcademic"/>
